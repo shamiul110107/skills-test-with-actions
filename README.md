@@ -2,6 +2,10 @@
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
+
+[![Python Coverage](https://github.com/shamiul110107/skills-test-with-actions/actions/workflows/python-coverage.yml/badge.svg)](https://github.com/shamiul110107/skills-test-with-actions/actions/workflows/python-coverage.yml)
+
+
 Hey shamiul110107!
 
 Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
